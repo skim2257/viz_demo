@@ -1,0 +1,115 @@
+,counts
+,
+Sex,
+Male,2660
+Female,686
+,
+ECOG PS,
+ECOG 0,2025
+ECOG 1,1030
+ECOG 2,208
+ECOG 3,41
+Unknown,31
+ECOG 4,6
+ECOG 0-1,1
+ECOG-Pt 0,1
+ECOG-Pt 1,1
+ECOG-Pt 2,1
+,
+Ds Site,
+Oropharynx,1501
+Larynx,877
+Nasopharynx,355
+Unknown,168
+Hypopharynx,162
+Lip & Oral Cavity,100
+nasal cavity,35
+Paranasal Sinus,28
+Nasal Cavity,27
+Skin,24
+Sarcoma,20
+Esophagus,18
+esophagus,15
+Paraganglioma,7
+Salivary Glands,4
+Other,2
+Orbit,1
+Lacrimal gland,1
+benign tumor,1
+,
+Smoking Status,
+Ex-smoker,1290
+Current,1139
+Non-smoker,872
+unknown,45
+,
+T,
+T2,927
+T3,861
+T1,454
+T4a,358
+T1a,179
+T0,167
+T4b,121
+T4,116
+T1b,88
+Tis,44
+T2b,5
+T2a,4
+TX,4
+T3 (2),3
+T2 (2),1
+T1 (2),1
+rT0,1
+,
+N,
+N0,1147
+N2b,791
+N2c,532
+N1,344
+N2,182
+N3,170
+N2a,125
+N3b,28
+N3a,13
+NX,1
+,
+M,
+M0,3328
+M1,2
+MX,2
+,
+Stage,
+IVA,1581
+III,605
+II,400
+I,352
+IVB,309
+0,44
+IV,12
+X,6
+IIA,2
+IIIA,2
+IIIC,2
+IVC,2
+IB,1
+IIB,1
+,
+HPV,
+"Yes, positive",1139
+"Yes, Negative",578
+,
+Tx Modality,
+RT alone,1858
+ChemoRT,1412
+RT + EGFRI,72
+Postop RT alone,3
+ChemoRT ,1
+,
+Chemo,
+none,1923
+Yes,1423
+,
+ContrastEnhanced,
+1,2013
+0,1333

@@ -1,0 +1,16 @@
+[project]
+name = "cdi"
+version = "0.1.0"
+description = "Add a short description here"
+authors = ["Sejin Kim <hello@sejin.kim>"]
+channels = ["conda-forge"]
+platforms = ["win-64"]
+
+[tasks]
+
+[dependencies]
+pandas = ">=2.2.2,<2.3"
+seaborn = ">=0.13.2,<0.14"
+lifelines = ">=0.27.8,<0.28"
+matplotlib = ">=3.8.4,<3.9"
+openpyxl = ">=3.1.2,<3.2"
