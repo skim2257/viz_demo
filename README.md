@@ -10,7 +10,7 @@ pixi run python viz.py
 <summary>
 Overall Pairplot
 </summary>
-![Overall Pairplot](https://raw.githubusercontent.com/skim2257/viz_demo/de6d26aedf268bed8614f4716ce953de45e1e717/pairplots/test.png)
+<IMG src="https://raw.githubusercontent.com/skim2257/viz_demo/de6d26aedf268bed8614f4716ce953de45e1e717/pairplots/test.png">
 </details>
 
 ### Pairplot with hues
@@ -18,13 +18,13 @@ Overall Pairplot
 <summary>
 Pairplot with 'Sex' variable hue
 </summary>
-![Pairplots with Sex](https://raw.githubusercontent.com/skim2257/viz_demo/de6d26aedf268bed8614f4716ce953de45e1e717/pairplots/Sex.png)
+<IMG src="https://raw.githubusercontent.com/skim2257/viz_demo/de6d26aedf268bed8614f4716ce953de45e1e717/pairplots/Sex.png">
 </details>
 <details>
 <summary>
 Pairplot with 'HPV' variable hue
 </summary>
-![Pairplots with HPV](https://raw.githubusercontent.com/skim2257/viz_demo/de6d26aedf268bed8614f4716ce953de45e1e717/pairplots/hpv.png)
+<IMG src="https://raw.githubusercontent.com/skim2257/viz_demo/de6d26aedf268bed8614f4716ce953de45e1e717/pairplots/hpv.png">
 </details>
 
 
@@ -33,14 +33,14 @@ Pairplot with 'HPV' variable hue
 <summary>
 Multiplot with 'Ds Site' variable
 </summary>
-![Multiplot with Ds Site variable](https://raw.githubusercontent.com/skim2257/viz_demo/de6d26aedf268bed8614f4716ce953de45e1e717/multiplots/Chemo_multiplots.png) 
+<IMG src="https://raw.githubusercontent.com/skim2257/viz_demo/de6d26aedf268bed8614f4716ce953de45e1e717/multiplots/Chemo_multiplots.png">
 </details>
 
 <details>
 <summary>
 Multiplot with N Stage
 </summary>
-![Multiplot with N Stage](https://raw.githubusercontent.com/skim2257/viz_demo/de6d26aedf268bed8614f4716ce953de45e1e717/multiplots/N_multiplots.png) 
+<IMG src="https://raw.githubusercontent.com/skim2257/viz_demo/de6d26aedf268bed8614f4716ce953de45e1e717/multiplots/N_multiplots.png">
 </details>
 
 # KM Curves
@@ -48,5 +48,26 @@ Multiplot with N Stage
 <summary>
 KM Curve of Overall Survival across various groups
 </summary>
-![Overall Survival](https://raw.githubusercontent.com/skim2257/viz_demo/de6d26aedf268bed8614f4716ce953de45e1e717/km_curves/km_curves_Status\ vs\ tnms.png)  ![
+<IMG src="https://raw.githubusercontent.com/skim2257/viz_demo/12095a8f88cb927db363d2846d4e22e704ba3a03/km_curves/km_curves_Status%20vs%20tnms.png"> 
+</details>
+
+<details>
+<summary>
+KM Curve of Local Spread across various groups
+</summary>
+<IMG src="https://raw.githubusercontent.com/skim2257/viz_demo/12095a8f88cb927db363d2846d4e22e704ba3a03/km_curves/km_curves_Local%20vs%20tnms.png"> 
+</details>
+
+<details>
+<summary>
+KM Curve of Regional Spread across various groups
+</summary>
+<IMG src="https://raw.githubusercontent.com/skim2257/viz_demo/12095a8f88cb927db363d2846d4e22e704ba3a03/km_curves/km_curves_Regional%20vs%20tnms.png"> 
+</details>
+
+<details>
+<summary>
+KM Curve of Distant Spread across various groups
+</summary>
+<IMG src="https://raw.githubusercontent.com/skim2257/viz_demo/12095a8f88cb927db363d2846d4e22e704ba3a03/km_curves/km_curves_Distant%20vs%20tnms.png"> 
 </details>
