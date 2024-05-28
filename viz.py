@@ -1,13 +1,12 @@
-import os
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from lifelines import KaplanMeierFitter
 
 # vanilla pair plot
-df = pd.read_excel("RADCURE-DA-CLINICAL-2.xlsx")
+df = pd.read_excel("data/RADCURE-DA-CLINICAL-2.xlsx")
 print(df.shape)
-print(df.describe().to_csv("describe.csv"))
+print(df.describe().to_csv("data/describe.csv"))
 
 fig = sns.pairplot(df, 
                    diag_kind='kde',
@@ -65,7 +64,7 @@ for var in vars:
 
     fig.savefig(f"multiplots/{var}_multiplots.png")
 
-df_counts.to_csv("counts.csv")
+df_counts.to_csv("data/counts.csv")
 
 
 # km curves
@@ -108,4 +107,4 @@ for endpoint in endpoints:
             ax[n].set_title(f"{endpoint} Spread vs {tnm}")
         fig.savefig(f"km_curves/km_curves_{endpoint} vs tnms.png")
 
-df_new.to_csv("km_data.csv")
+df_new.to_csv("data/km_data.csv")
